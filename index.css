@@ -6,7 +6,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #122638;
+  background-color: white;
 }
 
 *,
@@ -16,12 +16,12 @@ body {
 }
 
 ::placeholder {
-  color: #9de2ed;
+  color: #1a1a40;
   opacity: 0.5;
 }
 
 ::-ms-input-placeholder {
-  color: #9de2ed;
+  color: #1a1a40;
   opacity: 0.5;
 }
 
@@ -34,10 +34,10 @@ img {
 
 input {
   border-radius: 5px;
-  border-color: #9de2ed;
+  border-color: #1a1a40;
   border-style: solid;
-  color: #9de2ed;
-  background-color: #122638;
+  color: #1a1a40;
+  background-color: white;
   height: 40px;
   font-size: 24px;
   padding-left: 8px;

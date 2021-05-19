@@ -2,8 +2,8 @@ document.addEventListener("DOMContentLoaded", function () {
     var qr = window.qr = new QRious({
         element: document.getElementById("qr_code"),
         value: "txt",
-        background: '#122638',
-        foreground: '#7ecad6',
+        background: '#fff',
+        foreground: '#1a1a40',
         level: 'H',
         size: 250
     });
